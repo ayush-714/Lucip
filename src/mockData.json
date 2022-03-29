@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Toughjoyfax",
+    "professor": "Cindra",
+    "description": "Thyroid vessel ligation"
+  },
+  {
+    "id": 2,
+    "name": "Mat Lam Tam",
+    "professor": "Sophey",
+    "description": "Destruct joint les NOS"
+  },
+  {
+    "id": 3,
+    "name": "Bitchip",
+    "professor": "Bonnee",
+    "description": "Temp detach >1 xtroc mus"
+  },
+  {
+    "id": 4,
+    "name": "Fintone",
+    "professor": "Yuma",
+    "description": "Bilateral nephrectomy"
+  },
+  {
+    "id": 5,
+    "name": "Cookley",
+    "professor": "Bertina",
+    "description": "Bone biopsy NEC"
+  },
+  {
+    "id": 6,
+    "name": "Pannier",
+    "professor": "Theda",
+    "description": "Ovarian biopsy NEC"
+  },
+  {
+    "id": 7,
+    "name": "It",
+    "professor": "Marga",
+    "description": "Triad knee repair"
+  },
+  {
+    "id": 8,
+    "name": "Transcof",
+    "professor": "Jacky",
+    "description": "Inj therap subst periton"
+  },
+  {
+    "id": 9,
+    "name": "Konklux",
+    "professor": "Dyana",
+    "description": "Parasitol-spleen/marrow"
+  },
+  {
+    "id": 10,
+    "name": "Tempsoft",
+    "professor": "Aila",
+    "description": "Obstetric operation NEC"
+  }
+]
